@@ -10,7 +10,6 @@
 - **Profile System** – Save configurations for different tasks or applications.
 - **Custom Hotkeys** – Start/stop macros instantly.
 - **Broad Compatibility** – Works with browsers, desktop apps, Unity-based games, and some DirectX applications.
-- **Low Impact** – Preserves your mouse position and active window.
 ---
 
 ## Quick Start
