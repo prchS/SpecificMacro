@@ -80,7 +80,6 @@ SpecificMacro/
 - **Performance:**
   - Memory usage: ~10–20 MB.
   - CPU usage: Minimal when idle, low during execution.
-  - Hotkey detection latency: <1 ms.
 
 ---
 
