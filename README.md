@@ -1,5 +1,6 @@
 # SpecificMacro – Background Automation Tool
 
+
 **SpecificMacro** is a lightweight desktop automation utility built with **AutoHotkey v2**. It allows you to run macros in the background targeting specific windows without bringing them into focus. This makes it ideal for automating repetitive actions in games, productivity tools, or other applications while continuing your normal workflow.
 
 ---
@@ -63,8 +64,6 @@ SpecificMacro/
 ├── utils.ahk            # Utility functions
 ├── create_profile.ahk   # Profile creation tool
 ├── profiles/            # Saved profiles
-│   ├── ChromeClicker.ini
-│   └── RobloxClicker.ini
 └── Releases/            # Compiled executables
     └── SpecificMacro.exe
 ```
